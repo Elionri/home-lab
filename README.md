@@ -12,7 +12,7 @@ Personal home laboratory for learning Security Operations Center (SOC), threat d
 
 
 
-## 🛠 Стек технологий / Структура
+##  Стек технологий / Структура
 *Проект построен по модели "Агент-Сервер".*
 
 | Компонент | Технология | Назначение |
