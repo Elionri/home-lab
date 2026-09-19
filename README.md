@@ -10,7 +10,7 @@ Personal home laboratory for learning Security Operations Center (SOC), threat d
 
 *Проект является демонстрационным и развернут в изолированной среде.*
 
-
+Pasted image 20260919204540.png
 
 ##  Стек технологий / Структура
 *Проект построен по модели "Агент-Сервер".*
